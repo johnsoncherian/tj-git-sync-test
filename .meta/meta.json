@@ -1,9 +1,9 @@
 {
   "69d25543-6494-4f22-bcdc-c0902e0a9c4f": {
-    "gitAppName": "test123",
-    "lastCommitMessage": "commit 2",
+    "gitAppName": "test123-old",
+    "lastCommitMessage": "App test123  is renamed to test123",
     "gitVersionId": "87f6364f-fdc9-4b49-a9b2-ef95e4ff4de7",
-    "lastpushDate": "2024-07-08T13:50:32.314Z",
+    "lastpushDate": "2024-07-08T13:51:05.493Z",
     "gitVersionName": "v1",
     "lastCommitUser": "The Developer"
   }
